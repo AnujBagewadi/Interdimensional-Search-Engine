@@ -6,3 +6,14 @@
 - ✅ AI-Powered Q&A (FAISS + HuggingFace)
 - ✅ Confidence Score for answers
 - ✅ Simple Streamlit UI
+
+# 🔹 How to Use
+
+- 1️⃣ Clone:  
+*git clone https://github.com/AnujBagewadi/Interdimensional-Search-Engine.git && cd RickQuery*
+- 2️⃣ Install:  
+*pip install -r requirements.txt*
+- 3️⃣ Run:  
+*streamlit run main.py*
+
+# Wubba Lubba Dub Dub! 🚀
