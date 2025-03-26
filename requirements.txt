@@ -9,4 +9,4 @@ pillow
 accelerate
 sentence-transformers
 pypdf
--U langchain-community
+langchain-community
