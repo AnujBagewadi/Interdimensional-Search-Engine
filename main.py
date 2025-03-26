@@ -9,7 +9,7 @@ import torch
 import os
 
 # Page Configuration
-st.set_page_config(page_title="PDF Q&A", page_icon="📄")
+st.set_page_config(page_title="RickQuery", page_icon="📄")
 st.title('PDF Question & Answering')
 
 # Function to process PDF and create vector store
